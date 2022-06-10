@@ -1,3 +1,6 @@
+@file:Suppress("SpellCheckingInspection"
+)
+
 package com.example.challenge.domain.usecase.addfavorite
 
 import com.example.challenge.data.resource.Resource
